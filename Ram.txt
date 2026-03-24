@@ -1,0 +1,3 @@
+Git init
+git add <File name>
+git commit -m "This is File"
